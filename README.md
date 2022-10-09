@@ -1,4 +1,4 @@
-# Hunt_The_Superhero
+# superhero-hunter
 <h1> Link for the website : https://github.com/JAIROHJ/superhero-hunter </h1>
 
 <h2>How to run the website/app? </h2>
