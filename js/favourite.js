@@ -142,7 +142,7 @@
     // function to load favourites by using id in localStorage.
     let loadFavourites = async function (id) {
 
-        let response = await fetch(`https://www.superheroapi.com/api.php/10212976430764752/${id}`).catch(e => {
+        let response = await fetch(`https://www.superheroapi.com/api.php/5576398469073283/${id}`).catch(e => {
             console.log("error");
         });
         let data = await response.json();
