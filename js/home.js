@@ -173,7 +173,7 @@
             mainHeding.style.display = "block";
             return;
         }
-        let response = await fetch(`https://www.superheroapi.com/api.php/10212976430764752/search/${name}`).catch(e => {
+        let response = await fetch(`https://www.superheroapi.com/api.php/5576398469073283/search/${name}`).catch(e => {
             console.log("error");
         });
         let data = await response.json();
@@ -194,7 +194,7 @@
 
     // let loadSuperHeroes = async function (id) {
 
-    //     let response = await fetch(`https://www.superheroapi.com/api.php/10212976430764752/${id}`, { signal }).catch(e => {
+    //     let response = await fetch(`https://www.superheroapi.com/api.php/5576398469073283/${id}`, { signal }).catch(e => {
     //         console.log("error");
     //     });
     //     let data = await response.json();
