@@ -39,4 +39,4 @@
 
 <p>I always welcome contributors, and also a lot of credit goes to the developer of API! </p>
 
-<h1>ENJOY!</h1>
+
