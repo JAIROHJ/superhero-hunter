@@ -120,7 +120,7 @@
 
     // function to load heroe with id fetched from urlParams.
     const loadHeroFromId = async function (heroId) {
-        let response = await fetch(`https://www.superheroapi.com/api.php/10212976430764752/${heroId}`).catch(e => {
+        let response = await fetch(`https://www.superheroapi.com/api.php/5576398469073283/${heroId}`).catch(e => {
             console.log("error");
         });
         let data = await response.json();
